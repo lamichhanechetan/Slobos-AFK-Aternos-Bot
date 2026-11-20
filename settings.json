@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "chanautesmp.aternos.me",
+    "port": 36205,
     "version": "",
     "try-creative": false
   },
